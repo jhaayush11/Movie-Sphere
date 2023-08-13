@@ -1,0 +1,16 @@
+{
+  "name": "movie-sphere",
+  "version": "1.0.0",
+  "description": "movie-sphere website",
+  "main": "index.js",
+  "scripts": {
+   
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
